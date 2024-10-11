@@ -1,4 +1,6 @@
 # EditorJs - CodeCup
+> Fork of the [EditorJs - CodeCup](https://github.com/webfy-ai/editorjs-codecup). Adapted to our specific needs.
+
 
 ### NPM
     npm i @calumk/editorjs-codecup

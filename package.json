@@ -1,9 +1,9 @@
 {
-  "name": "@calumk/editorjs-codecup",
+  "name": "@webfy/editorjs-codecup",
   "description": "Codecup, for EditorJS",
-  "version": "1.2.0",
+  "version": "1.2.4",
   "author": "Calum Knott",
-  "repository": "https://github.com/calumk/editorjs-codecup",
+  "repository": "https://github.com/webfy-ai/editorjs-codecup",
   "license": "MIT",
   "main": "./dist/editorjs-codeCup.bundle.js",
   "scripts": {
